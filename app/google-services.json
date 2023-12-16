@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "911349693861",
+    "firebase_url": "https://entrevistasbd-4e8bc-default-rtdb.firebaseio.com/",
+    "project_id": "entrevistasbd-4e8bc",
+    "storage_bucket": "entrevistasbd-4e8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911349693861:android:50c0abe3bc2dbd6a5dfc4c",
+        "android_client_info": {
+          "package_name": "com.movil.miexamen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHeYYIToUG0ufSb_Wkf25-KJ3RHjCsjXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
